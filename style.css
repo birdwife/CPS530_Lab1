@@ -1,0 +1,118 @@
+body {
+    background-color: blue;
+}
+
+h1 {
+    font-family: Arial;
+}
+
+h3 {
+    font-family: Arial;
+    text-align: center;
+}
+
+h4 {
+    font-family: Arial;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.topTitle {
+    text-align: center;
+}
+
+.senseAndSensibility {
+    padding: 40px;
+    font-family: Arial;
+    background-color: lightblue;
+    column-count: 4;
+    column-gap: 0px;
+
+}
+
+.senseTitle {
+    font-size: 10px;
+    text-decoration: underline;
+}
+
+.prideAndPrejudice {
+    padding: 40px;
+    font-family: Arial;
+    background-color: lightblue;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.prideTitle {
+    font-size: 10px;
+    text-decoration: underline;
+}
+
+.mansfieldPark {
+    padding: 40px;
+    font-family: Arial;
+    background-color: lightblue;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.mansTitle {
+    font-size: 10px;
+    text-decoration: underline;
+}
+
+.emma {
+    padding: 40px;
+    font-family: Arial;
+    background-color: lightblue;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.emmaTitle {
+    font-size: 10px;
+    text-decoration: underline;
+}
+
+.northHangerAbbey {
+    padding: 40px;
+    font-family: Arial;
+    background-color: lightblue;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.northTitle {
+    font-size: 10px;
+    text-decoration: underline;
+}
+
+.persuasion {
+    padding: 40px;
+    font-family: Arial;
+    background-color: lightblue;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.perTitle {
+    font-size: 10px;
+    text-decoration: underline;
+}
+
+.ladySusan {
+    padding: 40px;
+    font-family: Arial;
+    background-color: lightblue;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.susanTitle {
+    font-size: 10px;
+    text-decoration: underline;
+}
